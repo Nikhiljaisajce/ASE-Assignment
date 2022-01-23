@@ -1,2 +1,6 @@
 This is from br2
+<<<<<<< HEAD
 After Merging
+=======
+This is from br1
+>>>>>>> br1
